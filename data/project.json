@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "cxmilaestrada-source",
+    "is_private": false,
+    "title": "Robespierre y el Terror Revolucionario",
+    "description": "El proyecto es un análisis audiovisual del documental sobre Robespierre y el Comité de Salvación Pública",
+    "language": "en",
+    "slug": "anotacionesdocumental",
+    "creator": "cxmilaestrada-source",
+    "authors": "Camila Estrada",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-04-14T20:42:36.119Z",
+    "updated_at": "2026-04-14T20:42:36.119Z"
   }
 }
