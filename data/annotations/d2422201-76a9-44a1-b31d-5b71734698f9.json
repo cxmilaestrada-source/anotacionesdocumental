@@ -31,6 +31,22 @@
       ],
       "tags": [],
       "uuid": "78610950-a81a-49bc-8020-118281342a3c"
+    },
+    {
+      "start_time": 360,
+      "end_time": 390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Un historiador entrevistado debate si el Terror fue una respuesta a la guerra externa o una decisión ideológica de Robespierre"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ced9ee61-1e80-4a0f-bdaf-a32cd13f0c6c"
     }
   ],
   "set": "Default",
