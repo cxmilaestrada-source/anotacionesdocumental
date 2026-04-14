@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 60,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El narrador presenta a Robespierre como el principal arquitecto del Terror de Estado en 1794"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1fd7c020-e9f1-459d-93c3-5fab3f0ae05b"
+    }
+  ],
   "set": "Default",
   "event_id": "6a1a760b-e2e1-433b-973f-7e0964e95472",
   "source_id": "ad55ad19-8906-4ec8-a7c4-2f4d6e093328"
