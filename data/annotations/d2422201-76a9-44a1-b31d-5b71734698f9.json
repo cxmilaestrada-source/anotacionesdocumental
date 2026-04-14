@@ -15,6 +15,22 @@
       ],
       "tags": [],
       "uuid": "1fd7c020-e9f1-459d-93c3-5fab3f0ae05b"
+    },
+    {
+      "start_time": 195,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se menciona la Ley de Sospechosos de 1793 como herramienta de control y represión política"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "78610950-a81a-49bc-8020-118281342a3c"
     }
   ],
   "set": "Default",
